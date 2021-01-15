@@ -19,7 +19,7 @@
     <!-- Text color for the name of the year -->
     <color name="textColorYear">#00171f</color>
 
-    <!-- Text color for the title of the earthquake in the list item -->
+    <!-- Text color for the title of the book in the list item -->
     <color name="textColorTitle">#007ea7</color>
 
     <color name="textDetail">#003459</color>
